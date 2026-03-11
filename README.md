@@ -1,5 +1,5 @@
 # Marker Project
-- **Live Link:**
+- **Live Link:** https://market-place-47e5c.web.app/
 
 ## Overview
 **Marker** is a modern freelancing platform that connects clients and freelancers efficiently. Users can post jobs, accept tasks, and manage projects easily through a clean and intuitive interface.  
