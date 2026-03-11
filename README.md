@@ -1,20 +1,37 @@
-🔹 Project Name: Freelance MarketPlace
-    Live Link: https://market-place-47e5c.web.app/
+# Marker Project
 
+![Project Banner](https://via.placeholder.com/1200x400.png?text=Marker+Project+Banner)
 
-🔹 Key Features of Market Place App
+## Overview
+**Marker** is a modern freelancing platform that connects clients and freelancers efficiently. Users can post jobs, accept tasks, and manage projects easily through a clean and intuitive interface.  
 
-✅ User Authentication & Authorization
-Secure login and registration system using Firebase Authentication (Email/Google).
+This project is built with **React, Next.js, Firebase**, and **Tailwind CSS**, focusing on responsiveness, performance, and a user-friendly design.
 
-✅ Dynamic Product / Job Listing System
-Users can add, view, update, and manage marketplace items or job posts in real time.
+---
 
-✅ Responsive & Modern UI
-Fully responsive design built with React and Tailwind CSS, optimized for all devices.
+## Features
+- User authentication (Sign up / Login / Logout)
+- Add and manage job postings
+- Accept and track tasks
+- Dynamic dashboard for clients and freelancers
+- Responsive design for desktop and mobile
+- Real-time updates using Firebase
 
-✅ Real-time Data Update Without Page Refresh
-Newly added items appear instantly using efficient state management.
+---
 
-✅ Secure Backend API Integration
-Protected REST APIs with token-based authentication for safe data transactions.
+## Tech Stack
+- **Frontend:** React, Tailwind CSS, Framer Motion  
+- **Backend / API:** Firebase / Axios / Node.js (for secure API calls)  
+- **Database:** Firebase Firestore  
+- **Authentication:** Firebase Auth  
+
+---
+
+## Screenshots
+![Home Page](https://via.placeholder.com/600x400.png?text=Home+Page)
+![Job Listing](https://via.placeholder.com/600x400.png?text=Job+Listing)
+![Add Job Modal](https://via.placeholder.com/600x400.png?text=Add+Job+Modal)
+![Accepted Tasks](https://via.placeholder.com/600x400.png?text=Accepted+Tasks)
+
+---
+
