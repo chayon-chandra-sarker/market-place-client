@@ -7,6 +7,7 @@ import "swiper/css/pagination";
 import bannarImg1 from "../../assets/bannarImg/bannar-imge-1.jpg";
 import bannarImg2 from "../../assets/bannarImg/bannar-imge-2.jpg";
 import bannarImg3 from "../../assets/bannarImg/bannar-imge-3.jpg";
+import { Link } from "react-router";
 
 
 const Banner = () => {
@@ -74,9 +75,9 @@ const Banner = () => {
                 Post jobs, review candidates, and hire the best talent
                 effortlessly.
               </p>
-              <button className="btn btn-outline btn-primary LatoSemibold text-xl">
+              <Link to="add-a-job" className="btn btn-outline btn-primary LatoSemibold text-xl">
                 Post a Job
-              </button>
+              </Link>
             </div>
           </div>
         </SwiperSlide>
@@ -100,9 +101,9 @@ const Banner = () => {
               <p className="mb-6 text-lg max-w-xl mx-auto">
                 Connecting talent with opportunity. Search smarter, apply faster, and build your career with confidence.
               </p>
-              <button className="btn btn-outline btn-primary LatoSemibold text-xl">
+               <Link to="add-a-job" className="btn btn-outline btn-primary LatoSemibold text-xl">
                 Post a Job
-              </button>
+              </Link>
             </div>
           </div>
         </SwiperSlide>
